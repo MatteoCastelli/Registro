@@ -1,0 +1,16 @@
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\bin\Debug\Registro Elettronico.exe.config
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\bin\Debug\Registro Elettronico.exe
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\bin\Debug\Registro Elettronico.pdb
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro Elettronico.csproj.AssemblyReference.cache
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro_Elettronico.Form1.resources
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro_Elettronico.Properties.Resources.resources
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro Elettronico.csproj.GenerateResource.cache
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro Elettronico.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro Elettronico.exe
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro Elettronico.pdb
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro.FC026DBF.Up2Date
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\bin\Debug\students.json
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro_Elettronico.Form2.resources
+C:\Users\matte\OneDrive\Desktop\Registro Elettronico\obj\Debug\Registro_Elettronico.Form3.resources
